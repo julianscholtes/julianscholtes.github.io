@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julian Scholtes / Lecturer in Public Law"
+title                    : "Julian Scholtes"
 title_separator          : "-"
 name                     : &name "Dr Julian Scholtes"
-description              : &description "personal description"
+description              : &description "Lecturer in Public Law, University of Glasgow"
 url                      : https://academicpages.github.io # "https://julianscholtes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "julianscholtes.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Julian Scholtes"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Lecturer in Public Law"
+  location         : "Glasgow"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=weD2DJEAAAAJ&hl=en"
+  email            : "julian.scholtes [at] glasgow [dot] ac [dot] uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "twitter.com/jscholt"
+  mastodon         : "<a rel="me" href="https://scholar.social/@jscholt">Mastodon</a>"
   vine             :
   weibo            :
   xing             :
